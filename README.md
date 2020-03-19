@@ -10,5 +10,5 @@ This sw control servo motors to make the android camera track the target object.
 
 ### License
 
-MIT
+BSD 2-Clause "Simplified" License
 
